@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marushkevych/react-biolerplate.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/marushkevych/react-biolerplate/issues"
+  },
+  "homepage": "https://github.com/marushkevych/react-biolerplate#readme"
 }
